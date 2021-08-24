@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nirbhay Kumar
-- 👀 I’m interested in any sort of coding (competitive programming, web dev, arduino, raspberry pi) as of now!
-- 🌱 I’m currently learning backend dev and IoT.
-- 📫 You can reach me through Codechef, Hackerrank, Linkdin
+- 👀 I’m interested in any sort of coding(seriously😀)!
+- 🌱 I’m currently learning how people love😊 because i am very poor in this!
+- 📫 You can reach me through your heart♥!
 
 <!---
 Nirbhay97/Nirbhay97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
