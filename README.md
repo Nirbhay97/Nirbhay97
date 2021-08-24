@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nirbhay Kumar
-- 👀 I’m interested in any sort of coding(seriously😀)!
-- 🌱 I’m currently learning how people love😊 because i am very poor in this!
-- 📫 You can reach me through your heart♥!
+ #👋 Hi, I’m Nirbhay Kumar
+- 👀 I’m interested in any sort of coding!
+- 🌱 I’m currently learning to cook code!
+
 
 <!---
 Nirbhay97/Nirbhay97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
