@@ -11,7 +11,7 @@
   <p align="left">
   
 </p>
-<img align="right" alt="Coding" width="400" height="300" src="https://images.app.goo.gl/ViDPKskhdnRtohbY7">
+<img align="right" alt="Coding" width="400" height="300" src="https://cdn.pixabay.com/photo/2016/10/15/15/19/digital-1742687_960_720.jpg">
 
 - 🎓 I'm currently pursuing B.Tech degree in Electronics and Communication
      Engineering from VIT Vellore.
