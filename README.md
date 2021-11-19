@@ -18,7 +18,7 @@
   
 - 📚 I’m currently learning **Backend with Nodejs and Express**
   
-- 💬 Ask me about **Competitive programming, Internet of Things, Cloud computing, Webdev, C and C++**
+- 💬 Ask me about **Competitive programming, Internet of Things, Arduino, Communication Protocols, Cloud computing, Webdev, C and C++**
   
 - 😊 I like to do constructive things and projects.
 
