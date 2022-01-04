@@ -1,45 +1,4 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;I+am+Nirbhay....;!&center=true&size=30">
-  </a>
-</h1>
-<br>
 
- <h2 align="center"> Hello, I am Nirbhay kumar, an IoT enthusiastic... </h2>
-  <br>
-  <br>
-  <p align="left">
-  
-</p>
-<img align="right" alt="Coding" width="400" height="300" src="https://cdn.pixabay.com/photo/2016/10/15/15/19/digital-1742687_960_720.jpg">
-
-- 🎓 I'm currently pursuing B.Tech degree in Electronics and Communication
-     Engineering from VIT Vellore.
-  
-- 📚 I’m currently learning **Backend with Nodejs and Express**
-  
-- 💬 Ask me about **Competitive programming, Internet of Things, Arduino, Communication Protocols, Cloud computing, Webdev, C and C++**
-  
-- 😊 I like to do constructive things and projects.
-
-- 📫 How to reach me **nirbhaykumar5572@gmail.com**
-
-
-
-
-</br>
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-
-
-<a href="https://www.linkedin.com/in/nirbhay-kumar-a826531ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shreya--agrawal" height="30" width="40" /></a>
-
-
-  <a href="https://www.hackerrank.com/nirbhay_kumar201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="30" width="40" /></a>
-
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
