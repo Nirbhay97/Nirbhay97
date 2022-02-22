@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **nirbhay.kumar2020@vitstudent.ac.in**
 
+<hr>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
