@@ -1,3 +1,19 @@
+<h2 align="center"> Hello, My name is Nirbhay kumar. I am interested in coding and coding and any sort of coding!!</h2>
+  <br>
+  <br>
+  <p align="left">
+  
+</p>
+
+
+- � I'm currently pursuing B.Tech degree in Electronics and Communication
+     Engineering from VIT Vellore.
+  
+- � I’m looking to collaborate on Open Source Projects
+  
+- 💬 Talk about **Webdev, IoT, ML, C and C++,Competitive programming, DSA, Embedded Systems, Trading........way more...* 
+
+- 📫 How to reach me **nirbhay.kumar2020@vitstudent.ac.in**
 
 
 <h3 align="left">Languages and Tools:</h3>
