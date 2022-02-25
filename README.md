@@ -6,10 +6,14 @@
 </p>
 
 
-- � I'm currently pursuing B.Tech degree in Electronics and Communication
+- � I'm currently pursuing B.Tech degree in Electronics and Computer science 
      Engineering from VIT Vellore.
   
 - � I’m looking to collaborate on Open Source Projects
+
+- I am currently learning Machine learning and computer vision
+
+- Also likes to compete on codechef, codeforces, leetcode and getting my hands dirty with algorithms.
   
 - 💬 Talk about **Webdev, IoT, ML, C and C++,Competitive programming, DSA, Embedded Systems, Trading........way more...* 
 
