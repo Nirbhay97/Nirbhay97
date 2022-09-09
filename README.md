@@ -15,7 +15,7 @@
 
 - Also likes to compete on codechef, codeforces, leetcode and getting my hands dirty with algorithms.
   
-- 💬 Talk about **Webdev, IoT, ML, C and C++,Competitive programming, DSA, Embedded Systems, Trading........way more...* 
+- 💬 Talk about **Webdev, IoT, ML,Data Science, NLP, C and C++,Competitive programming, DSA, Embedded Systems, Trading.....just a big fan of Technology..* 
 
 - 📫 How to reach me **nirbhay.kumar2020@vitstudent.ac.in**
 
