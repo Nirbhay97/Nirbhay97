@@ -17,7 +17,10 @@
   
 - 💬 Talk about **Webdev, IoT, ML,Data Science, NLP, C and C++,Competitive programming, DSA, Embedded Systems, Trading.....just a big fan of Technology..* 
 
-- 📫 How to reach me **nirbhay.kumar2020@vitstudent.ac.in**
+- 📫 How to reach me:
+- **nirbhaykumar5572@gmail.com**
+- <a href="https://twitter.com/Nickky_729" > Twitter Account </a>
+- <a href = "https://www.linkedin.com/in/nirbhay-kumar-a826531ba/"> Linkdin Profile </a>
 
 <hr>
 <br>
