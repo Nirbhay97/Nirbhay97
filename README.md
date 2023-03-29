@@ -25,11 +25,7 @@
 - <a href = "https://www.codechef.com/users/nickky"> CodeChef Profile </a>
 - <a href = "https://atcoder.jp/users/nickyy"> Atcoder </a>
 - <a href = "https://codeforces.com/profile/nirbhaymattu"> CodeForces Profile </a>
-
-
 <hr>
-<br>
--------------------------------------------------------------
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
