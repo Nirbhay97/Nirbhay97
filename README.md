@@ -23,7 +23,7 @@
 - <a href = "https://www.linkedin.com/in/nirbhay-kumar-a826531ba/"> Linkedin Profile </a>
 - <a href = "https://leetcode.com/nickky/"> LeetCode Profile </a>
 - <a href = "https://www.codechef.com/users/nickky"> CodeChef Profile </a>
-- <a href = "https://atcoder.jp/users/nickyy"> Atcoder </a>
+- <a href = "https://atcoder.jp/users/nickyy"> Atcoder Profile </a>
 - <a href = "https://codeforces.com/profile/nirbhaymattu"> CodeForces Profile </a>
 - <a href = "https://auth.geeksforgeeks.org/user/nickky/"> GeeksForGeeks Profile </a>
 <hr>
