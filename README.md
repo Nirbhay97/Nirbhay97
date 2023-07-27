@@ -57,6 +57,12 @@
 </div>
   <br>
   <hr>
-  
+
+   ## 🧑‍💻 Leetcode Stats
+<p align="center">
+  <img  src="https://leetcard.jacoblin.cool/nickky?theme=dark&font=ABeeZee&ext=heatmap"/>
+</p>
+
+
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Nirbhay97readme)
 
