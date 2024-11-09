@@ -6,25 +6,21 @@
 </p>
 
 
-- � I'm currently pursuing B.Tech degree in Electronics and Computer science 
-     Engineering from VIT Vellore.
-  
-- � I’m looking to collaborate on Open Source Projects
-
-- I am currently learning Machine learning and computer vision
+- � Software Dev - building and understading of software systems !
 
 - Also likes to compete on codechef, codeforces, leetcode and getting my hands dirty with algorithms.
   
-- 💬 Talk about **Webdev, IoT, ML, Data Science, C and C++, Competitive programming, DSA, Embedded Systems, Trading.....just a big fan of Technology..* 
+- 💬 Talk about **Full Stack, ML, Data Science, C and C++, Competitive programming, DSA, Trading.....just a big fan of Technology..*
+
+- Technologies worked on so far : Java | Spring | C/C++ | JavaScript | Typescript | Data Structures and Algorithms | React.js | Express | Node.js | Flask | Full Stack | Data Science | TinyML | MongoDB | Git | OOP | DBMS | Python | HTML | CSS | 
+| Firebase | Agile Development | JIRA | Jenkins
 
 - 📫 How to reach me:
 - **nirbhaykumar5572@gmail.com**
 - <a href="https://twitter.com/Nickky_729" > Twitter Account </a>
 - <a href = "https://www.linkedin.com/in/nirbhay-kumar-a826531ba/"> Linkedin Profile </a>
 - <a href = "https://leetcode.com/nickky/"> LeetCode Profile </a>
-- <a href = "https://www.codechef.com/users/nickky"> CodeChef Profile </a>
 - <a href = "https://atcoder.jp/users/nickyy"> Atcoder Profile </a>
-- <a href = "https://codeforces.com/profile/nirbhaymattu"> CodeForces Profile </a>
 - <a href = "https://auth.geeksforgeeks.org/user/nickky/"> GeeksForGeeks Profile </a>
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
