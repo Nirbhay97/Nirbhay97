@@ -9,8 +9,6 @@
 - � Software Dev - building and understading of software systems !
 
 - Also likes to compete on codechef, codeforces, leetcode and getting my hands dirty with algorithms.
-  
-- 💬 Talk about **Full Stack, ML, Data Science, C and C++, Competitive programming, DSA, Trading.....just a big fan of Technology..*
 
 - Technologies worked on so far : Java | Spring | C/C++ | JavaScript | Typescript | Data Structures and Algorithms | React.js | Express | Node.js | Flask | Full Stack | Data Science | TinyML | MongoDB | Git | OOP | DBMS | Python | HTML | CSS | 
 | Firebase | Agile Development | JIRA | Jenkins
